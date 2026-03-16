@@ -277,15 +277,3 @@ El código encontró los siguientes datos:
 | **CSV** | Formato de archivo de texto donde los datos están separados por comas |
 
 ---
-
-## Resumen para Principiantes
-
-1. **El código lee un archivo** enorme con 2 millones de personas
-2. **Busca duplicados** de tres maneras:
-   - Filas completas que sean iguales
-   - Valores que se repiten en cada columna
-   - Columnas que tengan los mismos datos
-3. **Muestra los resultados** de forma organizada
-4. **NO encontró filas completamente duplicadas**, pero sí muchos valores repetidos dentro de cada columna
-
-El código es útil para limpiar datos antes de usarlos en Machine Learning, ya que los datos duplicados pueden afectar los resultados de los modelos.
